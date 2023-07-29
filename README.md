@@ -1,5 +1,5 @@
 # Automation API Testing With Postman
-Example of automated testing of API [gorest.co.in](https://gorest.co.in). Import collection through ``File > Import``
+Example of automated testing of API [gorest.co.in](https://gorest.co.in). Import [collection file](API%20Automation%20Test%20Cycle.postman_collection.json) through ``File > Import``
 
 ![collection import menu](collection-import.png)
 
